@@ -1,0 +1,30 @@
+div {
+      border: 1px solid gray;
+      margin: 12px;
+      padding: 12px;
+      background-color: black;
+      color: white;
+
+}
+span {
+      margin-left: 1000px;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: 1000;
+      text-align: right;
+}
+
+.greetings {
+      color: green;
+      background-color: rgb(70, 69, 69);
+}
+
+.list {
+      border: dotted greenyellow;
+      margin: -2px 10px 10px 0px;
+      padding-left: 15px;
+}
+
+.clarifications {
+      font-family:'Times New Roman', Times, serif
+      
+}
